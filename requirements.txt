@@ -1,0 +1,6 @@
+pillow
+qrcode[pil]==8.0
+uvicorn[standard]
+numpy
+fastapi
+python-multipart

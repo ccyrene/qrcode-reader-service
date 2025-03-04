@@ -1,0 +1,1 @@
+docker run -d --pid=host --restart=unless-stopped --name=generate-qr -p 8080:8080 qr-generate
